@@ -1,0 +1,36 @@
+[
+    {
+        "quiz_name": "Quiz 1",
+        "quiz_id": "Quiz_1592144707674",
+        "time": "1:00",
+        "questions": [
+            "Question 1",
+            "Question 2",
+            "Question 3"
+        ],
+        "timestamp": "14-06-2020 07:55:43"
+    },
+    {
+        "quiz_name": "Quiz 2",
+        "quiz_id": "Quiz_1592145021458",
+        "time": "1:00",
+        "questions": [
+            "Question 1",
+            "Question 2"
+        ],
+        "timestamp": "14-06-2020 08:00:46"
+    },
+    {
+        "quiz_name": "HTML Challenge",
+        "quiz_id": "Quiz_1592145276428",
+        "time": "2:00",
+        "questions": [
+            "According to <b>img</b> tag, what is \"image.gif\" in src=\"image.gif\"> ?",
+            "What is true about <html> ?",
+            "Which heading tag from below is the biggest ?",
+            "Which of the following is the root element of an HTML document ?",
+            "Which color is #FFFFFF"
+        ],
+        "timestamp": "14-06-2020 08:11:55"
+    }
+]
